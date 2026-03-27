@@ -3,13 +3,13 @@ using System.Net;
 using System.Net.Mail;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
-using Microsoft.Extensions.Configuration;
+
 
 namespace PU_EmiReminder_OverDue.Common
 {
     public static class EmailSender
     {
-        public static string SendEMail(string from, string to, string cc, string bcc, string emailPassword, string subject, string _body, IConfiguration iConfig, string attachPath = "")
+        public static string SendEMail(string from, string to, string cc, string bcc, string emailPassword, string subject, string _body , string attachPath = "")
         {
             string functionReturnValue = null;
             string msg = "";
