@@ -361,3 +361,20 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/EW_OVERDUE_JOB/App.config
+/EW_OVERDUE_JOB/Common/EmailContentBuilder.cs
+/EW_OVERDUE_JOB/Common/EmailSender.cs
+/EW_OVERDUE_JOB/Common/Msg91SmsClass.cs
+/EW_OVERDUE_JOB/Common/SqlHelper.cs
+/EW_OVERDUE_JOB/Common/WriteLogFile.cs
+/EW_OVERDUE_JOB/EmiReminder/EmiReminderOverDue.cs
+/EW_OVERDUE_JOB/EW_OVERDUE_JOB.csproj
+/EW_OVERDUE_JOB/LoanDisbursement/Notification.cs
+/EW_OVERDUE_JOB/LoanDisbursement/Recipient.cs
+/EW_OVERDUE_JOB/Model/EmailContentModel.cs
+/EW_OVERDUE_JOB/Model/Msg91RS.cs
+/EW_OVERDUE_JOB/Model/SMS.cs
+/EW_OVERDUE_JOB/packages.config
+/EW_OVERDUE_JOB/Program.cs
+/EW_OVERDUE_JOB/Properties/AssemblyInfo.cs
+/EW_OVERDUE_JOB.sln
